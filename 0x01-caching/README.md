@@ -1,6 +1,6 @@
 # Caching
 
-This project contains tasks for learning to cache data.
+This project was done by Adetunji Olasubomi
 
 ## Tasks To Complete
 
