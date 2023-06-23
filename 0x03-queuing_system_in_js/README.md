@@ -1,6 +1,6 @@
 # Queueing System In JavaScript
 
-This project contains tasks for learning to create a queueing system in JavaScript.
+This project was created by Adetunji Olasubomi
 
 ## Tasks To Complete
 
